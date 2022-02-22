@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the great success and victory that the garison in Sligo has obtained over the Irish army, Friday the 20th of September, 1689 together with the exact quantity of the late king's stores of powder and ammunition, and the condition of the Irish in general, with the arrival of some horse from Scotland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25264</idno>
+            <idno type="STC">Wing A298</idno>
+            <idno type="STC">ESTC R14434</idno>
+            <idno type="EEBO-CITATION">12937964</idno>
+            <idno type="OCLC">ocm 12937964</idno>
+            <idno type="VID">95829</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25264)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95829)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2:48)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the great success and victory that the garison in Sligo has obtained over the Irish army, Friday the 20th of September, 1689 together with the exact quantity of the late king's stores of powder and ammunition, and the condition of the Irish in general, with the arrival of some horse from Scotland.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691 --  Campaigns --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dispatch">
+            <pb n="1" facs="tcp:95829:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT OF THE <hi>Great Succeſs and Victory</hi> THAT THE GARISON in SLIGO Has Obtained Over The IRISH ARMY, <hi>Friday</hi> the 20th of <hi>September,</hi> 1689. Together with the Exact Quantity of the Late King's Stores of Powder and Ammunition, and the Condition of the <hi>IRISH</hi> in general, With the Arrival of ſome Horſe from <hi>SCOTLAND.</hi> 
+               <add>7. Octob. 1689.</add>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>Dundalk,</hi> 
+                  <date>the 28th of <hi>September,</hi> 1689</date>
+               </dateline>
+            </opener>
+            <p>ON <hi>September</hi> the 20th, our <hi>INNISKELLEN</hi> Gariſon at <hi>SLIGO,</hi> having an Account that the <hi>Connaught</hi> Forces, conſiſting of about 5000 Horſe and Foot, commanded by Colonel <hi>Kelley,</hi> Colonel <hi>Farrel,</hi> and Colo<g ref="char:EOLhyphen"/>nel <hi>Dillan,</hi> who came, in Revenge, to Attack the Gariſon, and to Regain their former Loſs, by ſuppreſſing and cutting off the ſaid Gariſon. To this they were animated and encouraged by one <hi>French</hi> an Inhabitant of <hi>Sligo,</hi> and a Man of great Intereſt in that County. And, to this End, the <hi>Iriſh</hi> forthwith marched towards the <hi>Curlue,</hi> a conſiderable Poſt between <hi>Coylough,</hi> and the Plains of <hi>Roſcomon;</hi> whence Fi<g ref="char:EOLhyphen"/>ring at a great diſtance, making ſeveral Vollies, approached nearer and nearer, did no Execution: Our Men, not conſiſting of above 500 Horſe and Foot, never moving nor firing till they came within Piſtol-ſhot, did, on a ſudden, pour in their Small-ſhot ſo thick upon them, that they immediately broke their whole Force, and forced them to retreat in the greateſt Diſorder and Confuſion imaginable, flying towards the <hi>Boyle,</hi> were warmly purſued by our Foot; our Horſe wheeling about, got into one End of the Town, whil'ſt the Enemy was entering in at the other, where in the Church-yard, between both Parties of our Foot and Horſe, above 300 of the Enemy were killed, and a great Number wounded; of our Men in all but Six killed, and Seven or Eight wounded. There were killed of the Enemy in this Action in all above 500 Men, be<g ref="char:EOLhyphen"/>ſides a great many wounded. The three <hi>Iriſh</hi> Colonels that commanded them, and 150 more, Officers and Soldiers, were taken Priſoners, beſides a Booty of about 10000
+<pb n="2" facs="tcp:95829:2"/>Head of Black Cattel, belonging to the <hi>Creaughs</hi> of <hi>Roſcomon,</hi> were taken by our victo<g ref="char:EOLhyphen"/>rious Men, and driven unto <hi>Sligo.</hi> God be praiſed for this Signal Victory.</p>
+            <p>
+               <hi>Laſt Night, for this Victory, our Army gave Three Vollies from our Batteries and Muſquets.</hi>
+            </p>
+            <byline>This Account was written by Alderman <hi>Van Humrick,</hi> one of the Commiſſaries of our Army in <hi>Ireland.</hi>
+            </byline>
+         </div>
+         <div type="dispatch">
+            <opener>
+               <dateline>Cheſter, <date>
+                     <hi>October</hi> 2d 1689</date>
+               </dateline>
+            </opener>
+            <p>I Suppoſe, before this come to your hands, you will hear an Account from Colonel <hi>Stewart,</hi> Son to the Lord <hi>Mountjoy,</hi> (who left the Camp at <hi>Dundalk</hi> on Saturday laſt) of the great Defeat given by 500 of the <hi>Inniskillen,</hi> to 5000 of the <hi>Iriſh,</hi> killing 800 of them, and taking 300 Priſoners, Colonel <hi>Dillon,</hi> Colonel <hi>O Farrel,</hi> Colonel <hi>Bourk,</hi> and Colonel <hi>Buttler,</hi> with ſeveral other Officers being Priſoners, and taking 10000 Head of Black Cattel.</p>
+            <p>This Morning I diſcourſed one <hi>Peter Ward,</hi> who lately came from <hi>Dublin,</hi> and made marrow Obſervations, whil'ſt there, of the Condition of the <hi>Iriſh.</hi> He had an Intima<g ref="char:EOLhyphen"/>cy with one of the Commiſſaries of the Stores, who has a very great Kindneſs for the Proteſtants. He aſſured him they were in very great want of Powder; that they ſent 45 Barrels to <hi>Carrickfergus,</hi> 15 of which the <hi>French</hi> Men of War kept for their uſe, the Remainder was ſent into the Town, when ſurrendered there was but little left; That they had but 230 Barrels in their Stores, and but 4 Shots a Man in their Camp; That they wanted Fire-Arms, having loſt moſt of them at <hi>Derry</hi> and <hi>Inniskellen,</hi> which was the Reaſon for the Arming moſt of their Men with Scythes, Half-Pikes, and Skeins; That their Horſe conſiſted of 7 Regiments, and 17 of Dragoons. Their beſt Horſes were moſt of them ſpoiled, and thoſe that remained, were ill for Service. They have 56 Regiments of Foot, many of them without Shoes and Stockings. They are much diſheartned, and could not be induced to appear at the Camp, but for the Curſe of the Clergy, if they refuſed. He told me that one Captain <hi>Legallin</hi> was ſhot at the Camp at <hi>Drumconnough,</hi> for Running a way, or giving a Falſe Word of Command, in Enga<g ref="char:EOLhyphen"/>ging the <hi>Inniskellen</hi> Men. At the time of his being ſhot, he deſired all his Friends pre<g ref="char:EOLhyphen"/>ſent to come up to him, and adviſed them that were in Arms to return, and not to en<g ref="char:EOLhyphen"/>gage longer, for that the Curſe of God would blaſt all their Undertakings, and that it was in vain to fight againſt the <hi>Engliſh;</hi> That they ſhould ſave themſelves, by timely making Conditions, otherwiſe they and their Poſterity would be ruined, and then was ſhot to Death. He denied the Fact laid to his Charge, but ſaid he died to take off the <hi>Odium</hi> from <hi>Hamilton.</hi>
+            </p>
+            <p>He tells me the <hi>Papiſts</hi> in <hi>Dublin</hi> ſhew much kindneſs to the <hi>Prote<g ref="char:EOLhyphen"/>ſtants,</hi> and that ſeveral of them ſpoke to him to befriend them if it lay in his Power, they gave themſelves for a loſt People, not having Aid ſent from <hi>France. Tryconnel</hi> is very much againſt the Burning of <hi>Dublin,</hi> telling them it will but Exaſperate the <hi>Engliſh,</hi> all the <hi>Papiſts</hi> in <hi>Dublin</hi> are of the ſame opinion. The <hi>French</hi> ſay the Late <hi>K. J.</hi> minds nothing but Shooting at Flies and Sparrows, and that he brought them to that Kingdom to be Murthered by the <hi>Iriſh,</hi> and they are in a deadly Feud.</p>
+            <p>Poſtſcript. <hi>Since my writing the Above Letter, we have an Account from a Veſſel come in hither, that the Horſe from</hi> Scotland <hi>Landed on Sunday at</hi> Carrickfergus, <hi>and that the Late King</hi> James <hi>is Decamped.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>WITH ALLOWANCE.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. C.</hi> near <hi>Fleet-Bridge,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
